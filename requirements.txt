@@ -1,0 +1,8 @@
+# Versiones con las que se ejecutaron y aprobaron las 232 pruebas.
+# Instalación: python -m pip install -r requirements.txt
+fastapi==0.116.1
+starlette==0.47.3
+pydantic==2.13.5
+uvicorn==0.53.0
+pytest==9.1.1
+httpx==0.28.1

@@ -1,0 +1,2 @@
+# Conservar los CSV del profesor byte por byte (usan CRLF).
+*.csv -text
